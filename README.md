@@ -17,7 +17,7 @@ Real-world Flutter + Firebase application serving **200+ students**. Features re
 
 **Linux Security Auditor** (In Progress)  
 Command-line tool for auditing Linux systems: weak permissions, suspicious auth logs, open ports, firewall status, and remediation suggestions. Built for resource-constrained environments.  
-[→ Repository](https://github.com/boikzdev/linux-security-auditor) *(replace with actual link once created)*
+[→ Repository](https://github.com/boikzdev/linux-security-auditor)
 
 ### Skills & Tools
 - **Languages**: Python, Bash, JavaScript
