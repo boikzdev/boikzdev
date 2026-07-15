@@ -21,8 +21,8 @@ Ultra-optimized, low-latency full-stack ecosystem for emergency medical routing 
 [→ View Repository](https://github.com/boikzdev/ArogyaRoute-NE)
 
 **School Bus Tracker**
-Real-world React Native (Expo) + Express + Firebase application for real-time school bus tracking. Features live GPS updates, arrival proximity alerts, and a TypeScript monorepo architecture.
-[→ View Repository](https://github.com/boikzdev/School-Bus-Tracker) | Impact: Reduced manual coordination chaos in school operations
+Real-world React Native (Expo) + Express + Firebase application for real-time school bus tracking. Features live GPS updates, arrival proximity alerts, and a TypeScript monorepo architecture.| Impact: Reduced manual coordination chaos in school operations
+[→ View Repository](https://github.com/boikzdev/School-Bus-Tracker)
 
 **Linux Security Auditor**
 Bash + Python command-line toolkit for auditing Linux systems: weak permissions, suspicious auth logs, open ports, firewall status, and automated remediation reports. Built for resource-constrained environments.
