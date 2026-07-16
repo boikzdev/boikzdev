@@ -16,12 +16,16 @@
 Intelligent conversational Business Intelligence platform built on Streamlit + Azure OpenAI (GPT-4o). Lets users chat with their data in natural language, auto-cleans datasets, and runs Azure ML training pipelines with MLflow tracking. Built for Microsoft Imagine Cup 2026.
 [→ View Repository](https://github.com/boikzdev/Aurora-Clarity)
 
+**Face Analysis Engine**
+Real-time Face Analysis Engine using OpenCV and Keras for age, gender, and emotion detection via webcam feeds. Built with a custom inference loop specifically optimized to run efficiently on low-compute, budget developer hardware without lag.
+[→ View Repository](https://github.com/boikzdev/Face-Analysis-Engine)
+
 **ArogyaRoute NE**
 Ultra-optimized, low-latency full-stack ecosystem for emergency medical routing and automated NLP symptom triage in Northeast India. Runs under 90MB RAM with real-time hospital routing, NLP-based triage classification, and an anti-fraud review gate.
 [→ View Repository](https://github.com/boikzdev/ArogyaRoute-NE)
 
 **School Bus Tracker**
-Real-world React Native (Expo) + Express + Firebase application for real-time school bus tracking. Features live GPS updates, arrival proximity alerts, and a TypeScript monorepo architecture.| Impact: Reduced manual coordination chaos in school operations
+Real-world React Native (Expo) + Express + Firebase application for real-time school bus tracking. Features live GPS updates, arrival proximity alerts, and a TypeScript monorepo architecture. | Impact: Reduced manual coordination chaos in school operations
 [→ View Repository](https://github.com/boikzdev/School-Bus-Tracker)
 
 **Linux Security Auditor**
@@ -33,7 +37,7 @@ Bash + Python command-line toolkit for auditing Linux systems: weak permissions,
 - **Languages**: Python, Bash, JavaScript, TypeScript
 - **Core**: Linux (advanced scripting & hardening), Git
 - **Cloud**: Azure (Azure OpenAI, Azure ML Studio), AWS (basics + security focus)
-- **Security**: nmap, system auditing, basic network analysis, log parsing
+- **Security & AI Tools**: OpenCV, Keras, nmap, system auditing, basic network analysis, log parsing
 - **Other**: Firebase, Streamlit, MLflow, scikit-learn
 
 ### Connect
